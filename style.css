@@ -70,6 +70,7 @@ body {
   */
   background-image: url(http://images1.wikia.nocookie.net/__cb20111028025351/cuttherope/images/thumb/1/1c/Candy.png/100px-Candy.png); /* this is the image that appears on the front of all the cards */
   background-position: 0 0;
+  background-size: contain;
   border-radius: 4px;
   z-index: 10;
 }
