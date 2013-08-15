@@ -31,15 +31,15 @@ body {
 
   For more colors, see: http://www.html-color-names.com/color-chart.php
   */
-  background-color: #F26522; /* this is the background color of the page */
-  color: #DA4930; /* this is the default color of text on the page */
+  background-color: #87CEFA; /* this is the background color of the page */
+  color: #050505; /* this is the default color of text on the page */
   font-family: "Days One", sans-serif; /* this is the default font on the page */
   text-align: center; /* this centers text on the page */
 }
 
 /* The #game element holds the game area */
 #game {
-  background-color: black; /* this is the background color that appears behind the cards */
+  background-color: #BA55D3 ; /* this is the background color that appears behind the cards */
   position: absolute; /* the rules here all handle positioning the #game element on the page */
   display: block;
   top: 0;
@@ -68,7 +68,7 @@ body {
   For the best results, try finding images that are about the same size as the images
   that are currently being used (they're all 120x189 pixels).
   */
-  background-image: url(./images/card.png); /* this is the image that appears on the front of all the cards */
+  background-image: http://rlv.zcache.com/cute_kawaii_lollipop_cartoon_with_bow_tie_photosculpture-r2c979a4685a34b069b4f733444bcb6f5_x7saw_8byvr_512.jpg; /* this is the image that appears on the front of all the cards */
   background-position: 0 0;
   border-radius: 4px;
   z-index: 10;
