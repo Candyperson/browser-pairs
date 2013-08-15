@@ -146,6 +146,7 @@ body {
   background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJv0R7p4YCrIMp_gzgM1Xo--d0TDvks66VOOYlwVMmYqcPa3yQoQ); /* this is the image that appears when you start the game */
   background-position: center center;
   background-repeat: no-repeat;
+  background-size: contain;
   opacity: 1;
   z-index: 3;
 }
