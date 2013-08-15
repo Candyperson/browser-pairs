@@ -115,9 +115,10 @@ body {
 }
 
 .tb {
-  background-image: url();
+  background-image: url(http://media-cache-ec4.pinimg.com/192x/91/f1/e3/91f1e35f57348b8438f29052e6874dfa.jpg);
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: center center;
 }
 
 .fm {
