@@ -85,6 +85,7 @@ body {
   background-image: url(https://sphotos-a-sea.xx.fbcdn.net/hphotos-frc1/p480x480/998943_616705835029890_1749791754_n.png);
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: center center;
 }
 
 .cr {
@@ -95,7 +96,7 @@ body {
 }
 
 .sf {
-  background-image: url();
+  background-image: url(./images/tb.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -114,7 +115,7 @@ body {
 }
 
 .tb {
-  background-image: url(./images/tb.png);
+  background-image: url();
   background-repeat: no-repeat;
   background-size: contain;
 }
