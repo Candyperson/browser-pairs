@@ -104,6 +104,7 @@ body {
   background-image: url(http://media.steampowered.com/steamcommunity/public/images/avatars/08/0806b28fa16172e3a3fd2027a773f77ae827c036_full.jpg);
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: center center;
 }
 
 .ns {
